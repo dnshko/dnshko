@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm [DINESH!](https://dnshko.github.io/)** </p>
+ <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://dnshko.github.io/">DINESH</a> </h1>
 
 ---
 
