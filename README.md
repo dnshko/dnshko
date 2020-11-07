@@ -39,7 +39,7 @@
 
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=dnshko&theme=flat&row=1" alt="devded" />
+ <img src="https://github-profile-trophy.vercel.app/?username=dnshko" alt="devded" />
 </p>
 
 
