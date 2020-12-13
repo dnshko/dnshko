@@ -8,7 +8,7 @@
 
 ## &nbsp; &nbsp; **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I'm aspiring 🔭️ Front-End Web Developer.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
