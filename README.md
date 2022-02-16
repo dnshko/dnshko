@@ -1,4 +1,5 @@
- <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://dnshko.github.io/">DINESH</a> </h1>
+
+<h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://dnshko.in/">DINESH</a> </h1>
 
 ---
 
@@ -34,16 +35,23 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" /> </p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnshko&" alt="Dinesh" />
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dnshko&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnshko&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=dnshko" alt="devded" />
+ <img src="https://github-profile-trophy.vercel.app/?username=dnshko&title=MultiLanguage,Commits,Followers,Repositories,PullRequest,Stars" alt="dnshko" />
 </p>
 
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dnshko&color=brightgreen&style=plastic" alt="None"/> </p>
 
 <h3 align="center">
 <img src="https://www.downloadclipart.net/svg/10095-blue-footer-svg.svg" alt="stacks"/>
 </h3>
 
+![](https://hit.yhype.me/github/profile?user_id=34399732)
