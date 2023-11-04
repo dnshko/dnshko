@@ -44,7 +44,9 @@
 </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dnshko&color=brightgreen&style=plastic" alt="None"/> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=dnshko&color=brightgreen&style=plastic" alt="None"/> 
+</p>
 
 <h3 align="center">
 <img src="https://www.downloadclipart.net/svg/10095-blue-footer-svg.svg" alt="stacks"/>
